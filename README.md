@@ -1,4 +1,5 @@
 # CodeCloud by Tirth Rami
+- This projects work as a opne source code contribution platform, where user upload, edit and delete his code. It also have some nice UI features that enhance its appearance.
 
 # Tech-Stack used:
 - JavaScript
