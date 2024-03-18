@@ -50,7 +50,7 @@ const ShowCode = () => {
               </div>
               <div className="my-4">
                 <span className='text-xl mr-4 text-grey-500'>Description: </span>
-                <span>{code.description}</span>
+                <code>{code.description}</code>
               </div>
               <div className="my-4">
                 <span className='text-xl mr-4 text-grey-500'>Create Time</span>
