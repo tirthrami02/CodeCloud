@@ -67,7 +67,7 @@ const Home = () => {
                     Card
                 </button>
                 <button className=' bg-gray-700 hover:bg-white text-white hover:text-black hover:shadow-lg rounded-lg px-4 py-1 '
-                    onClick={() => window.open("https://github.com/tirthrami02", "_blank")}
+                    onClick={() => window.open("https://github.com/tirthrami02/CodeCloud", "_blank")}
                 >
                     GitHub
                 </button>
